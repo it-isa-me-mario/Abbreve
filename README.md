@@ -19,13 +19,13 @@ Found a bug? Accessibility issue? Or do you want to add an abbreviation to our d
 
 ### Tech Stack
 This project uses;
-- [React](reactjs.org)
-- [TailwindCSS](tailwindcss.com)
+- [React](https://reactjs.org/)
+- [TailwindCSS](https://tailwindcss.com)
 
 To start contributing,
 ### Prerequisites
 You need to have, 
-- [Node](nodejs.org) installed
+- [Node](https://nodejs.org) installed
 - Basic knowledge of [Git](https://git-scm.com/)
 
 ### Steps
